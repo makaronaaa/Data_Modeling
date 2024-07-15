@@ -1,4 +1,4 @@
-# Data Modeling - Marketing Analytics
+# Marketing Analytics
 
 ## Requirements
 
